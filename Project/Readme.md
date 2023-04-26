@@ -1,1 +1,1 @@
-
+This is a C++ program that evaluates logical expressions containing variables A, B, C, and D. The program prompts the user to input an infix expression, converts it to postfix notation, and then evaluates the expression for all possible combinations of variable values. The program uses a stack to convert the infix expression to postfix notation and a vector to store the variable values. The functions get_precedence() and evaluate_expression() are used to determine the order of operations and to evaluate the expression, respectively.
